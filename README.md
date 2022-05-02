@@ -1,5 +1,4 @@
 # Smoke Gas Leakage System
-- Project Youtube Link - [Hash X](https://youtu.be/BpP05wDhauk)
 
 ![Project Image](https://cdn.discordapp.com/attachments/861933527586177055/970639375337664522/National_Hamburger_Day_Banner_Landscape.jpg)
 
@@ -69,6 +68,7 @@ The buzzer act as a siren and depending on the degree of gas leakage, a suitable
 - Arduino CC - (https://arduino.cc)
 - Arduino Store - (https://store.arduino.cc/)
 - Blynk - (https://blynk.cloud/)
+- Project Youtube Link - [Hash X](https://youtu.be/BpP05wDhauk)
 
 [Back To The Top](#smoke-gas-leakage-system)
 
@@ -112,5 +112,6 @@ SOFTWARE.
 
 - Twitter - [@Hashx_official](https://twitter.com/Hashx_official)
 - Discord - [Hash X](https://discord.gg/c8HjHVFkun)
+- Project Youtube Link - [Hash X](https://youtu.be/BpP05wDhauk)
 
 [Back To The Top](#smoke-gas-leakage-system)
